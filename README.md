@@ -1,6 +1,6 @@
 # cw01
 
-A new Flutter project.
+This app displays a counter and a button that increments by 1. There is also an image toggle button that switches between 2 images.
 
 ## Getting Started
 
